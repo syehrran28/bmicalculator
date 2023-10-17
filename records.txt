@@ -1,0 +1,10 @@
+Name|Gender|Weight|Height|Age Group|BMI Index
+
+ELSA, FEMALE, 50, 170, 3, 17.3 
+ELVIN, MALE, 65, 155, 2, 27.06 
+EVA, FEMALE, 35, 140, 1, 17.86 
+ELISHA, FEMALE, 56, 170, 3, 19.38 
+ERIC, MALE, 45, 130, 1, 26.63 
+SYEHRRAN, MALE, 85, 180, 3, 26.23 
+ALI, MALE, 85, 172, 2, 28.73 
+
